@@ -16,7 +16,7 @@
 
 ![Logan's GitHub Stats](https://github-readme-stats-seven-brown.vercel.app/api?username=LoganBuchanan&show_icons=true&theme=darcula)
 
-![Top Languages](https://github-readme-stats-seven-brown-61.vercel.app/api/top-langs/?username=LoganBuchanan&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-seven-brown-61.vercel.app/api/top-langs/?username=LoganBuchanan&layout=compact&theme=radical&exclude_repo=LoganBuchanan.github.io)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LoganBuchanan&theme=radical)
 
