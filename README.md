@@ -14,11 +14,11 @@
 ![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
 
-![Logan's GitHub Stats](https://github-readme-stats-seven-brown.vercel.app/api?username=LoganBuchanan&show_icons=true&theme=darcula)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LoganBuchanan&theme=merko)
 
 ![Top Languages](https://github-readme-stats-seven-brown-61.vercel.app/api/top-langs/?username=LoganBuchanan&layout=compact&theme=radical&exclude_repo=LoganBuchanan.github.io)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LoganBuchanan&theme=radical)
+![Logan's GitHub Stats](https://github-readme-stats-seven-brown.vercel.app/api?username=LoganBuchanan&show_icons=true&theme=synthwave)
 
 <!--
 **LoganBuchanan/LoganBuchanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
