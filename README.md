@@ -15,6 +15,7 @@
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
 
 ![Logan's GitHub Stats](https://github-readme-stats-seven-brown.vercel.app/api?username=LoganBuchanan&show_icons=true&theme=darcula)
+
 ![Top Languages](https://github-readme-stats-seven-brown-61.vercel.app/api/top-langs/?username=LoganBuchanan&layout=compact&theme=radical)
 
 <!--
