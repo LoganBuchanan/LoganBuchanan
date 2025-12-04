@@ -18,6 +18,8 @@
 
 ![Top Languages](https://github-readme-stats-seven-brown-61.vercel.app/api/top-langs/?username=LoganBuchanan&layout=compact&theme=radical)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LoganBuchanan&theme=radical)
+
 <!--
 **LoganBuchanan/LoganBuchanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
