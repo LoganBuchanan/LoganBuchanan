@@ -9,10 +9,10 @@
 ### [LinkedIn Profile](https://www.linkedin.com/in/logan-buchanan-1bb841313/)
 
 ![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
-![Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows)](https://www.microsoft.com/en-us/windows/)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)](https://www.postgresql.org/)
+![Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
 
 
 
