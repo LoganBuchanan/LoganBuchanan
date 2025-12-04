@@ -14,7 +14,8 @@
 ![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
 
-![Logan's GitHub Stats](https://github-readme-stats-seven-brown.vercel.app/api?username=LoganBuchanan&show_icons=true&theme=radical)
+![Logan's GitHub Stats](https://github-readme-stats-seven-brown.vercel.app/api?username=LoganBuchanan&show_icons=true&theme=darcula)
+![Top Languages](https://github-readme-stats-seven-brown.vercel.app/api/top-langs/?username=LoganBuchanan&layout=compact&theme=darcula)
 
 <!--
 **LoganBuchanan/LoganBuchanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
