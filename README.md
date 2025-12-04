@@ -14,7 +14,7 @@
 ![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)
 ![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)
 
-
+[![Logan's GitHub stats](https://github-readme-stats.vercel.app/api?username=LoganBuchanan)](https://github.com/LoganBuchanan/github-readme-stats)
 
 <!--
 **LoganBuchanan/LoganBuchanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
