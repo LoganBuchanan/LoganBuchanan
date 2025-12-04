@@ -1,4 +1,5 @@
-# Wazzup 
+# Wazzup <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 
 ### Hello, I'm Logan Buchanan and here is a little about myself,
 ### I'm a undergraduate at UNC Charlotte majoring in Computer Science
