@@ -1,11 +1,20 @@
-## Hello, I'm Logan Buchanan and here is a little about myself,
-## I'm a rising Junior at UNC Charlotte majoring in Computer Science
-## with a concentration in Information Technology
-## I have experience in JAVASCRIPT and C, Currently I'm learning
-## Python and HTML.
-## Born and raised in Charlotte, North Carolina where I have an
-## interest in Gaming, Anime, Music, Lawn Care, and Grilling out
-## with a Cig and Cold Beer.
+# Wazzup 
+
+### Hello, I'm Logan Buchanan and here is a little about myself,
+### I'm a undergraduate at UNC Charlotte majoring in Computer Science
+### with a concentration in Information Technology
+### Born and raised in Charlotte, North Carolina where I have an
+### interest in Gaming, Anime, Music, Lawn Care, and Grilling out
+### with a Cig and Cold Beer.
+### [LinkedIn Profile](https://www.linkedin.com/in/logan-buchanan-1bb841313/)
+
+![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
+![Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows)](https://www.microsoft.com/en-us/windows/)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+![HTML](https://img.shields.io/badge/Code-HTML-orange?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue?logo=postgresql)](https://www.postgresql.org/)
+
+
 
 <!--
 **LoganBuchanan/LoganBuchanan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
