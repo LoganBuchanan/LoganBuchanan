@@ -8,6 +8,7 @@
 ### interest in Gaming, Anime, Music, Lawn Care, and Grilling out
 ### with a Cig and Cold Beer.
 ### [LinkedIn Profile](https://www.linkedin.com/in/logan-buchanan-1bb841313/)
+### ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/Loganpbx5502/
 
 ![Python](https://img.shields.io/badge/Code-Python-yellow?logo=python)
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?logo=windows)
